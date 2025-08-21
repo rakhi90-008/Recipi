@@ -1,4 +1,5 @@
 # Recipes Stack (Backend + UI + Docker)
+seceret_key:tasty
 
 This bundle includes:
 - **Backend** (FastAPI + SQLAlchemy + Postgres) in `backend/`
